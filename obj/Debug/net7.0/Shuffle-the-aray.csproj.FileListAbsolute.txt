@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\bin\Debug\net7.0\Shuffle-the-aray.exe
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\bin\Debug\net7.0\Shuffle-the-aray.deps.json
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\bin\Debug\net7.0\Shuffle-the-aray.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\bin\Debug\net7.0\Shuffle-the-aray.dll
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\bin\Debug\net7.0\Shuffle-the-aray.pdb
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.dll
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\refint\Shuffle-the-aray.dll
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.pdb
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\Shuffle-the-aray.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Shuffle-the-aray\obj\Debug\net7.0\ref\Shuffle-the-aray.dll
